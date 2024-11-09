@@ -38,3 +38,10 @@ Assim como demonstrado durante o desafio, realize a criação do Script SQL para
 * Relação de nomes dos fornecedores e nomes dos produtos;  
 
 **Agora é a sua vez de ser o protagonista! Implemente o desafio sugerido pela expert e suba seu projeto para um repositório próprio, com isso, você aumentará ainda mais seu portfólio de projetos no GitHub!**
+
+
+# REFINAMENTO DO BANCO DE DADOS E-COMMERCE
+
+
+![E-commerce_Refinamento](https://github.com/user-attachments/assets/9a16deee-197f-4614-ac24-7bde85b9c496)
+
